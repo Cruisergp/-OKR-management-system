@@ -5,7 +5,7 @@
 支持目标关联的任务和项目管理
 开箱可用
 可授权源码二次开发
-[体验地址](https://okr.bj-qicai.com/)https://okr.bj-qicai.com，用户名：admin，密码：okre1234
+[体验地址](https://okr.bj-qicai.com/)， https://okr.bj-qicai.com，用户名：admin，密码：okre1234
 
 #### 功能模块说明
 
