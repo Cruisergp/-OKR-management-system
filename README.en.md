@@ -1,6 +1,6 @@
 # Full Process OKR management system
 #### Introduction
-##### The Industry's Most Complete OKR Management and Execution Logic
+##### The Industry's Most Completed OKR Management and Execution Logic
 ##### Support for goal-linked task and project management
 ##### Out of the box available
 ##### Licensable source code for further development
@@ -9,7 +9,7 @@
 ####  Module Description
 
 ##### 1. OKR Goals
-Goal Breakdown, Goal Alignment, Key ResultsConfidence Index, Progress, Outcome Score, Replay 
+Goal CRUD, Goal Alignment, Key Results CRUD,Confidence Index, Progress, Outcome Score, Replay 
 ![输入图片说明](.gitee/img/%E7%9B%AE%E6%A0%871.png)
 ![输入图片说明](.gitee/img/%E7%9B%AE%E6%A0%872.png)
 
@@ -67,6 +67,6 @@ Set up and manage data and permissions for the system.
 ![输入图片说明](.gitee/img/%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0.png)
 
 
-#### 咨询联系
+#### contact
 mail :guiping.yin@gmail.com
 ![输入图片说明](.gitee/wechat.png)
