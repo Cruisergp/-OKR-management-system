@@ -8,8 +8,11 @@
 ##### https://okr.bj-qicai.com
 ##### Username: admin, password: okre1234
 #### Functional Module Description
-##### 1. OKR GoalsGoal Breakdown, Goal Alignment, Key ResultsConfidence Index, Progress, Outcome Score, Replay ! [Enter image caption](.gitee/img/%E7% 9B%AE%E6%A0%871.png)! [Enter image caption](.gitee/img/%E7% 9B%AE%E6%A0%872.png)
-##### 2. OKR MapThe system automatically generates target maps to provide an overall view based on the correlation between targets. ! [Enter image caption](.gitee/img/%E5% 9C%B0%E5%9B%BE.png)
+##### 1. OKR GoalsGoal Breakdown, Goal Alignment, Key ResultsConfidence Index, Progress, Outcome Score, Replay ! 
+[Enter image caption](.gitee/img/%E7% 9B%AE%E6%A0%871.png)! 
+[Enter image caption](.gitee/img/%E7% 9B%AE%E6%A0%872.png)
+##### 2. OKR MapThe system automatically generates target maps to provide an overall view based on the correlation between targets. ! 
+[Enter image caption](.gitee/img/%E5% 9C%B0%E5%9B%BE.png)
 ##### 3. OKR ImplementationAutomatically generate four-quadrant Kanban boards for progress and execution of individual goals through OKR methodology ! [Enter image caption](.gite/img/%E5% 9B%9B%E8%B1%A1%E9%99%90.png)
 ##### 4. OKR DashboardMonitor the implementation of OKRs in the company in multiple dimensions and provide managers with data-based decision-making basis. ! [Enter image caption](.gitee/img/%E4% BB%AA%E8%A1%A8%E7%9B%981.png)! [Enter image caption](.gitee/img/%E4% BB%AA%E8%A1%A8%E7%9B%982.png)
 ##### 5. OKR Case LibraryThe system provides hundreds of OKR cases in various industries, which is convenient for users of various industries and positions to design their own OKRs. ! [Enter image caption](.gitee/img/%E6% A1%88%E4%BE%8B%E5%BA%93.png)
